@@ -1,4 +1,6 @@
 # CMPUT 301 : Lab 3 Participation Exercise
+CCID: bbhoomi
+Name: Bhoomi Bhoomi
 
 ## References and Resources
 
